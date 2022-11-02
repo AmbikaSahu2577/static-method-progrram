@@ -1,0 +1,12 @@
+class Counter
+{
+	static void display()
+	    {
+	    	System.out.println("this is static method progrram");
+	    }
+
+	public static void main(String[] args) 
+	{
+       Counter.display();
+	}
+}
